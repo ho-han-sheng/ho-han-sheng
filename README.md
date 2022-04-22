@@ -6,7 +6,7 @@ I am a psychology undergraduate at the Singapore University of Social Sciences, 
 
 - Brain and mental illnesses and their biological underpinnings
 - Statistical methods for the social sciences
-- Biofeedback as therapeutic interventions 
+
 
 ## I am also currently working on ✍️
 
