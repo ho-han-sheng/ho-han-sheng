@@ -12,6 +12,7 @@ I am a psychology undergraduate at the Singapore University of Social Sciences, 
 
 - Learning LaTeX and developing a statistics guide for psychology undergraduates with a focus on assumed knowledge (typically forgotten right after completion of our national exams) 🧮
 - Learning to use R and Python for conducting statistical analyses and data visualisation 📈
+- Developing and maintaining a static website for my university's student psychology society, PsyConnect 🌐
 
 <!---
 ho-han-sheng/ho-han-sheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
