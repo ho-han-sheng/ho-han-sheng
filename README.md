@@ -4,9 +4,9 @@ I am a psychology undergraduate at the Singapore University of Social Sciences, 
 
 ## I am currently interested in 👀
 
-- Brain and mental illnesses and their biological underpinnings
+- Psychopathology
 - Statistical methods for the social sciences
-
+- Psychological network models
 
 ## I am also currently working on ✍️
 
