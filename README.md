@@ -7,6 +7,7 @@ I am a psychology undergraduate at the Singapore University of Social Sciences, 
 - Psychopathology
 - Statistical methods for the social sciences
 - Psychological network models
+- [Complexity theory of psychopathology](https://doi.org/10.1037/abn0000740)
 
 ## I am also currently working on ✍️
 
