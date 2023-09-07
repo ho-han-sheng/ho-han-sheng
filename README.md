@@ -1,6 +1,6 @@
 ## Hello! Han Sheng here 👋
 
-I am a psychology undergraduate at the Singapore University of Social Sciences, an aspiring clinical psyhologist 🧠 and researcher 🥼.
+I am a psychology undergraduate at the Singapore University of Social Sciences, an aspiring clinical psychologist 🧠 and researcher 🥼.
 
 ## I am currently interested in 👀
 
