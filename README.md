@@ -1,16 +1,17 @@
 ## Hello! Han Sheng here 👋
 
-I am a psychology undergraduate at the Singapore University of Social Sciences, an aspiring clinical psychologist 🧠 and researcher 🥼.
+I am a full-time research assistant and part-time psychology undergraduate at the Singapore University of Social Sciences.
 
 ## I am currently interested in 👀
 
 - Psychopathology
 - Statistical methods for the social sciences
-- Psychological network models
+- Network psychometrics
 - [Complexity theory of psychopathology](https://doi.org/10.1037/abn0000740)
 
 ## I am also currently working on ✍️
 
+- The [NCSS-NAK 360 study](https://www.suss.edu.sg/about-suss/schools/shbs/ncss-nak-360-panel-research)
 - Learning LaTeX and developing a statistics guide for psychology undergraduates with a focus on assumed knowledge (typically forgotten right after completion of our national exams) 🧮
 - Learning to use R and Python for conducting statistical analyses and data visualisation 📈
 - Developing and maintaining a static website for my university's student psychology society, PsyConnect 🌐
